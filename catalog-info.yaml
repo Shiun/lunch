@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lunch
+  annotations:
+    github.com/project-slug: shiun/lunch
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Shiun
